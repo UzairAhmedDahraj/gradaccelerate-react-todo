@@ -32,7 +32,7 @@ const TodoLayout = () => {
       </div>
       
       <div className="text-center mt-8 text-sm text-gray-500 font-medium">
-        Made By Uzair Ahmed Dahraj | Day 4 | Day
+        Made By Uzair Ahmed Dahraj | Day 4 Frontend | Day 5 Backend
       </div>
     </div>
   );
